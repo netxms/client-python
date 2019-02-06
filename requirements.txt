@@ -1,2 +1,2 @@
 pylint
-bitstring==3.1.5
+#bitstring==3.1.5
